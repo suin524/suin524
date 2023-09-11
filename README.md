@@ -15,4 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <a href="https://programmers.co.kr/events/sv_bootcamp_2023?fbclid=IwAR33UmZytwrrdmzlAtjVQZwfddHSACY2Dz4K5v_Rt3hg7gIiiMzA1zIUZoQ" target="_blank"><img src="https://img.shields.io/badge/instagram-#E4405F?style=flat&logo=instagram&logoColor=#E4405F"/></a>
+<img alt="Html" src ="https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white"/>
 

@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<a href="https://programmers.co.kr/events/sv_bootcamp_2023?fbclid=IwAR33UmZytwrrdmzlAtjVQZwfddHSACY2Dz4K5v_Rt3hg7gIiiMzA1zIUZoQ" target="_blank"><img src="https://img.shields.io/badge/#1F1F1F?style=flat&logo=onstar&logoColor=#E4405F"/></a>
+<a href="https://programmers.co.kr/events/sv_bootcamp_2023?fbclid=IwAR33UmZytwrrdmzlAtjVQZwfddHSACY2Dz4K5v_Rt3hg7gIiiMzA1zIUZoQ" target="_blank"><img src="https://img.shields.io/badge/instagram?style=flat&logo=instagram&logoColor=#E4405F"/></a>
 

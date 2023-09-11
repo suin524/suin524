@@ -18,4 +18,6 @@ Here are some ideas to get you started:
 
 <img href="https://programmers.co.kr/events/sv_bootcamp_2023?fbclid=IwAR33UmZytwrrdmzlAtjVQZwfddHSACY2Dz4K5v_Rt3hg7gIiiMzA1zIUZoQ" src ="https://img.shields.io/badge/instagram-E4405F.svg?&style=flat&logo=instagram&logoColor=white"/>
 
+<a href = "https://github.com/Hun-Se"><img alt="GitHub" src ="https://img.shields.io/badge/GitHub-181717.svg?&style=for-the-badge&logo=GitHub&logoColor=white"/>
+
 

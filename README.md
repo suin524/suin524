@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 ## 💻 Portfolio
 <a href = "https://github.com/suin524"><img alt="GitHub" src ="https://img.shields.io/badge/GitHub-181717.svg?&style=for-the-badge&logo=GitHub&logoColor=white"/>
-<a href = "https://junglegym.tistory.com/"><img alt="tistory" src ="https://img.shields.io/badge/tistory-white.svg?&style=for-the-badge"/></a>
-<a href="https://programmers.co.kr/events/sv_bootcamp_2023?fbclid=IwAR33UmZytwrrdmzlAtjVQZwfddHSACY2Dz4K5v_Rt3hg7gIiiMzA1zIUZoQ" target="_blank"><img src="https://img.shields.io/badge/programmers-0B2343?style=for-the-badge&logo=programmers&logoColor=white"/></a>
+<a href = "https://junglegym.tistory.com/"><img alt="tistory" src ="https://img.shields.io/badge/tistory-white.svg?&style=for-the-badge"/>
+<a href="https://programmers.co.kr/events/sv_bootcamp_2023?fbclid=IwAR33UmZytwrrdmzlAtjVQZwfddHSACY2Dz4K5v_Rt3hg7gIiiMzA1zIUZoQ" target="_blank"><img src="https://img.shields.io/badge/programmers-0B2343?style=for-the-badge&logo=programmers&logoColor=white"/>
 
 

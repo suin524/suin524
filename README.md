@@ -19,8 +19,8 @@ Here are some ideas to get you started:
 <img alt="JavaScript" src ="https://img.shields.io/badge/JavaScriipt-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=black"/> 
 <img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/> 
 <img alt="Spring" src ="https://img.shields.io/badge/Spring-6DB33F.svg?&style=for-the-badge&logo=Spring&logoColor=white"/> 
-<img alt="Mysql" src ="https://img.shields.io/badge/Mysql-4479A1.svg?&style=for-the-badge&logo=Mysql&logoColor=black"/>
-<img alt="Mongodb" src ="https://img.shields.io/badge/Mongodb-47A248.svg?&style=for-the-badge&logo=Mongodb&logoColor=black"/>
+<img alt="Mysql" src ="https://img.shields.io/badge/Mysql-4479A1.svg?&style=for-the-badge&logo=Mysql&logoColor=white"/>
+<img alt="Mongodb" src ="https://img.shields.io/badge/Mongodb-47A248.svg?&style=for-the-badge&logo=Mongodb&logoColor=white"/>
 
 
 ## 💻 Portfolio

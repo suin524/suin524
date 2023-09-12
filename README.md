@@ -14,12 +14,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## 💻 My Stack
+<div align=center> 
 <img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/> <img alt="C" src="https://img.shields.io/badge/C-A8B9CC.svg?style=for-the-badge&logo=C&logoColor=white"> <img alt="Java" src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> <img alt="nodedotjs" src ="https://img.shields.io/badge/node.js-339933.svg?&style=for-the-badge&logo=nodedotjs&logoColor=white"/> <br>
 <img alt="Html" src ="https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white"/> <img alt="Css" src ="https://img.shields.io/badge/CSS-1572B6.svg?&style=for-the-badge&logo=CSS3&logoColor=white"/> <img alt="JavaScript" src ="https://img.shields.io/badge/JavaScriipt-F7DF1E.svg?&style=for-the-badge&logo=JavaScript&logoColor=black"/>  <br>
 <img alt="Spring" src ="https://img.shields.io/badge/Spring-6DB33F.svg?&style=for-the-badge&logo=Spring&logoColor=white"/> <img alt="Mysql" src ="https://img.shields.io/badge/Mysql-4479A1.svg?&style=for-the-badge&logo=Mysql&logoColor=white"/> <img alt="Mongodb" src ="https://img.shields.io/badge/Mongodb-47A248.svg?&style=for-the-badge&logo=Mongodb&logoColor=white"/> <img alt="Mongoose" src ="https://img.shields.io/badge/Mongoose-880000.svg?&style=for-the-badge&logo=Mongoose&logoColor=white"/> <img alt="express" src="https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=white"> <br> 
 <img alt="amazonaws" src ="https://img.shields.io/badge/amazon aws-232F3E.svg?&style=for-the-badge&logo=amazonaws&logoColor=white"/> <img alt="amazons3" src ="https://img.shields.io/badge/amazon s3-569A31.svg?&style=for-the-badge&logo=amazons3&logoColor=white"/> <img alt="amazonec2" src ="https://img.shields.io/badge/amazon ec2-FF9900.svg?&style=for-the-badge&logo=amazonec2&logoColor=white"/> <img alt="Docker" src ="https://img.shields.io/badge/Docker-2496ED.svg?&style=for-the-badge&logo=Docker&logoColor=white"/> 
-
-
+  <br>
+</div>
 ## 💻 Portfolio
 <a href = "https://github.com/suin524"><img alt="GitHub" src ="https://img.shields.io/badge/GitHub-181717.svg?&style=for-the-badge&logo=GitHub&logoColor=white"/>
 <a href = "https://junglegym.tistory.com/"><img alt="tistory" src ="https://img.shields.io/badge/tistory-white.svg?&style=for-the-badge"/>
